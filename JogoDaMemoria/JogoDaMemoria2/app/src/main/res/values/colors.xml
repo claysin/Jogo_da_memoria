@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jogo da Memória</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="pause">Pausar</string>
+    <string name="resume">Retomar</string>
+    <string name="score">Pontuação: %d</string>
+    <string name="moves">Movimentos: %d</string>
+    <string name="time">Tempo: %s</string>
+    <string name="game_complete">Parabéns! Você completou o jogo!</string>
+    <string name="card_description">Carta do jogo da memória</string>
+</resources>
